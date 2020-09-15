@@ -32,7 +32,7 @@ $ python main.py
 ```
 
 ## Development
-use F12 open development tool and maunal parse html first, then code what you want.
+use `F12` open to development tool in Chrome and maunal parse html first, then code what you want.
 ![](https://raw.githubusercontent.com/p208p2002/line-crawler-quickstart-guide/master/assets/dev_tool.png)
 
 ### Development Resource
