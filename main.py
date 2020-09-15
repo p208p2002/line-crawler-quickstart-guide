@@ -19,8 +19,6 @@ if __name__ == "__main__":
     driver.get("chrome-extension://ophjlpahpchlmihnnnihgmmeilfjmjjc/index.html")
     time.sleep(8) # wait for page loaded
 
-    print(driver.page)
-
     find_element(driver,By.ID,"line_login_email").send_keys(input("line_login_email:"))
     find_element(driver,By.ID,"line_login_pwd").send_keys(input("line_login_pwd:"))
     find_element(driver,By.ID,"login_btn").click()
