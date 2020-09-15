@@ -1,6 +1,6 @@
 # Line crawler quickstart guide
 ## Demo
-![](./demo.gif)
+![](https://raw.githubusercontent.com/p208p2002/line-crawler-quickstart-guide/master/assets/demo.gif)
 ## Prepare
 ```
 chromedriver.exe # driver for control browser
@@ -19,7 +19,7 @@ version
 
 3. Downlaod **Line-Web App Page** with **CRX Downloader** extention
 
-![](./crx_downloader.png)
+![](https://raw.githubusercontent.com/p208p2002/line-crawler-quickstart-guide/master/assets/crx_downloader.png)
 
 ## Start Up
 ### Install Packages
@@ -33,7 +33,7 @@ $ python main.py
 
 ## Development
 use F12 open development tool and maunal parse html first, then code what you want.
-![](dev_tool.png)
+![](https://raw.githubusercontent.com/p208p2002/line-crawler-quickstart-guide/master/assets/dev_tool.png)
 
 ### Development Resource
 - [Selenium](https://www.selenium.dev/documentation/en/)
